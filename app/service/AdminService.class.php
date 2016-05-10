@@ -1,6 +1,7 @@
 <?php
 /**
  * This is used for user management/access control
+ * @author Eason Luo (trueluo1987@gmail.com)
  */
 use core\USER_ERROR;
 require_once  dirname ( __FILE__ ) .'/../core/USER_ERROR.php';

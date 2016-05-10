@@ -2,7 +2,7 @@
 
 /** 
  * a database helper
- * @author Eason Luo
+ * @author Eason Luo (trueluo1987@gmail.com)
  * @since 18-6-2014
  */
 require_once dirname ( __FILE__ ) . '/../util/functions.php';

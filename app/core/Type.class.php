@@ -2,7 +2,7 @@
 
 /**
  * load file /config/type.ini and define all the attributes for all types which extend Bean
- * @author Yongjiang Zhang (86.yjzhang@gmail.com)
+ * @author Eason Luo (trueluo1987@gmail.com)
  *
  */
 class Type {

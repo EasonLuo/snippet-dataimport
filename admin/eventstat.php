@@ -1,4 +1,7 @@
 <?php
+/**
+ * @author Eason Luo (trueluo1987@gmail.com)
+ */
 session_start ();
 $login = $_SESSION ['login'];
 if (! $login) {

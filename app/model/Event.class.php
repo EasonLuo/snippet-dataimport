@@ -2,7 +2,7 @@
 
 /**
  * event model
- * @author Yongjiang Zhang (86.yjzhang@gmail.com)
+ * @author Eason Luo (trueluo1987@gmail.com)
  * @since 18-6-2014
  */
 require_once  dirname(__FILE__).'/../core/Bean.class.php';

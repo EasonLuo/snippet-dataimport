@@ -1,4 +1,12 @@
 <?php
+/**
+ * wrap each item with char on the left and right
+ * @param array $arr
+ * @param string $left
+ * @param string $right
+ * @param string $filter
+ * @return unknown|multitype:string unknown
+ */
 function wrap($arr, $left = "", $right = "", $filter = null) {
 	if (! $arr || count ( $arr ) === 0) {
 		return $arr;
@@ -15,6 +23,13 @@ function wrap($arr, $left = "", $right = "", $filter = null) {
 	}
 	return $newArr;
 }
+/**
+ * repeat a char with glue certain times
+ * @param string $char
+ * @param string $glue
+ * @param integer $count
+ * @return string
+ */
 function chain($char, $glue, $count) {
 	if ($count <= 0) {
 		return "";

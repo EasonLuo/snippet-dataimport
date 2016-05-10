@@ -1,7 +1,7 @@
 <?php
 /**
  * This is used for process locations
- * @author Administrator
+ * @author Eason Luo (trueluo1987@gmail.com)
  *
  */
 class LocationService {
